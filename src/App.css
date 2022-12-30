@@ -1,1 +1,14 @@
+.post_wrap {
+    border: 1px solid red;
+    max-width: 50%;
+    margin: auto;
+    margin-top: 30px;
+}
 
+.post_item {
+    padding: 30px;
+}
+
+.msgError {
+    color: red;
+}
